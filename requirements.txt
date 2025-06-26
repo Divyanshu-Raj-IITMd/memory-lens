@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+spacy
+wordcloud
+fpdf
+Pillow
+keybert
+sentence-transformers
+torch
+transformers

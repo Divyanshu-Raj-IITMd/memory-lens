@@ -1,0 +1,24 @@
+# 🐍 Python cache and virtualenv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+
+# 📝 Jupyter notebooks
+.ipynb_checkpoints/
+
+# ⚙️ Streamlit config
+.streamlit/secrets.toml
+
+# 🗄️ Data files (optional — hide if you want to keep private)
+data/entries.json
+
+# 🖥️ OS-specific files
+.DS_Store
+Thumbs.db
+
+# 🧑‍💻 IDE settings
+.vscode/
+.idea/
